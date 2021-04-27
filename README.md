@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Python Project for Data Science
